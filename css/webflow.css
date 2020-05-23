@@ -258,7 +258,7 @@ ul,
 ol {
   margin-top: 0px;
   margin-bottom: 10px;
-  padding-left: 40px;
+  padding-left: 0px;
 }
 .w-list-unstyled {
   padding-left: 0;
@@ -1777,3 +1777,9 @@ textarea.w-select {
 .w-condition-invisible {
   display: none !important;
 }
+
+
+
+
+
+
